@@ -22,4 +22,4 @@ This is a simple web application that demonstrates how to use Python Flask and J
 4. Run the Flask application:
     ```bash
     python app.py
-5. pen your web browser and navigate to http://localhost:9999 to see the live time updates in action.
+5. Open your web browser and navigate to http://localhost:9999 to see the live time updates in action.
