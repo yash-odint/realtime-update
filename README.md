@@ -17,6 +17,9 @@ This is a simple web application that demonstrates how to use Python Flask and J
 1. Clone the repository to your local machine:
 2. Navigate to the project directory:
 3. install the required Python packages:
+    ```bash
     pip install Flask
-4. pip install Flask
+4. Run the Flask application:
+    ```bash
+    python app.py
 5. pen your web browser and navigate to http://localhost:9999 to see the live time updates in action.
